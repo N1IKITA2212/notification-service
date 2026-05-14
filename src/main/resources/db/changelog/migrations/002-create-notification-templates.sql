@@ -1,4 +1,4 @@
--- Liquibase formatted sql
+-- liquibase formatted sql
 
 -- changeset Nikita:002-create-notification-templates
 

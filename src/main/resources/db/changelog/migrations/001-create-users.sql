@@ -1,4 +1,4 @@
--- Liquibase formatted sql
+-- liquibase formatted sql
 
 -- changeset Nikita:001-create-users
 CREATE TABLE users (

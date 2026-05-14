@@ -1,4 +1,4 @@
--- Liquibase formatted sql
+-- liquibase formatted sql
 
 -- changeset Nikita:003-create-events
 

@@ -1,4 +1,4 @@
 databaseChangeLog:
-  -includeAll:
-    path: db/cnagelog/migrations
-    relativeToChangelogFile: false
+  - includeAll:
+      path: db/changelog/migrations
+      relativeToChangelogFile: false
